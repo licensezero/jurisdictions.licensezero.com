@@ -4,6 +4,8 @@
 
 Jurisdiction codes help to identify individuals with common names, and give developers and customers information they may need to comply with tax or other compliance requirements.
 
+Improvements to this page are very welcome.  Please open issues and pull requests [in the GitHub repository]({{ site.github.repository_url }}).
+
 ## Supported Jurisdictions
 
 The list of ISO 3166-2 codes for jurisdictions that License Zero supports is also available as [an npm package](https://www.npmjs.com/package/licensezero-jurisdictions).
