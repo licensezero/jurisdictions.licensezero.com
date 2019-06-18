@@ -1,0 +1,10 @@
+title: License Zero Jurisdictions
+description: supported jurisdictions and codes
+url: https://jurisdictions.licensezero.com
+homepage: https://jurisdictions.licensezero.com
+twitter:
+  username: licensezero
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
